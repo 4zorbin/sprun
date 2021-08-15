@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/sprun/static/css/main.90ee13b1.chunk.css",
-    "main.js": "/sprun/static/js/main.8b432d56.chunk.js",
-    "main.js.map": "/sprun/static/js/main.8b432d56.chunk.js.map",
+    "main.css": "/sprun/static/css/main.5360a344.chunk.css",
+    "main.js": "/sprun/static/js/main.c0c5448d.chunk.js",
+    "main.js.map": "/sprun/static/js/main.c0c5448d.chunk.js.map",
     "runtime-main.js": "/sprun/static/js/runtime-main.9eb2c129.js",
     "runtime-main.js.map": "/sprun/static/js/runtime-main.9eb2c129.js.map",
     "static/css/2.8a5e5081.chunk.css": "/sprun/static/css/2.8a5e5081.chunk.css",
@@ -10,14 +10,14 @@
     "static/js/2.a7fdc723.chunk.js.map": "/sprun/static/js/2.a7fdc723.chunk.js.map",
     "index.html": "/sprun/index.html",
     "static/css/2.8a5e5081.chunk.css.map": "/sprun/static/css/2.8a5e5081.chunk.css.map",
-    "static/css/main.90ee13b1.chunk.css.map": "/sprun/static/css/main.90ee13b1.chunk.css.map",
+    "static/css/main.5360a344.chunk.css.map": "/sprun/static/css/main.5360a344.chunk.css.map",
     "static/js/2.a7fdc723.chunk.js.LICENSE.txt": "/sprun/static/js/2.a7fdc723.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.9eb2c129.js",
     "static/css/2.8a5e5081.chunk.css",
     "static/js/2.a7fdc723.chunk.js",
-    "static/css/main.90ee13b1.chunk.css",
-    "static/js/main.8b432d56.chunk.js"
+    "static/css/main.5360a344.chunk.css",
+    "static/js/main.c0c5448d.chunk.js"
   ]
 }
