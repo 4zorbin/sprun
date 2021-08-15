@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sprun/static/css/main.a617e044.chunk.css",
+    "main.js": "/sprun/static/js/main.ccbefa0b.chunk.js",
+    "main.js.map": "/sprun/static/js/main.ccbefa0b.chunk.js.map",
+    "runtime-main.js": "/sprun/static/js/runtime-main.2a10391e.js",
+    "runtime-main.js.map": "/sprun/static/js/runtime-main.2a10391e.js.map",
+    "static/js/2.2011ea3b.chunk.js": "/sprun/static/js/2.2011ea3b.chunk.js",
+    "static/js/2.2011ea3b.chunk.js.map": "/sprun/static/js/2.2011ea3b.chunk.js.map",
+    "static/js/3.567a482c.chunk.js": "/sprun/static/js/3.567a482c.chunk.js",
+    "static/js/3.567a482c.chunk.js.map": "/sprun/static/js/3.567a482c.chunk.js.map",
+    "index.html": "/sprun/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/sprun/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.2011ea3b.chunk.js.LICENSE.txt": "/sprun/static/js/2.2011ea3b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/sprun/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a10391e.js",
+    "static/js/2.2011ea3b.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.ccbefa0b.chunk.js"
+  ]
+}
