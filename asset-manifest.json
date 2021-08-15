@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/sprun/static/css/main.a617e044.chunk.css",
-    "main.js": "/sprun/static/js/main.ad2757c4.chunk.js",
-    "main.js.map": "/sprun/static/js/main.ad2757c4.chunk.js.map",
+    "main.js": "/sprun/static/js/main.49f88956.chunk.js",
+    "main.js.map": "/sprun/static/js/main.49f88956.chunk.js.map",
     "runtime-main.js": "/sprun/static/js/runtime-main.2a10391e.js",
     "runtime-main.js.map": "/sprun/static/js/runtime-main.2a10391e.js.map",
     "static/js/2.2011ea3b.chunk.js": "/sprun/static/js/2.2011ea3b.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.2a10391e.js",
     "static/js/2.2011ea3b.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.ad2757c4.chunk.js"
+    "static/js/main.49f88956.chunk.js"
   ]
 }
